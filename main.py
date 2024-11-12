@@ -1,23 +1,4 @@
-# def greatest_number(numbers):
-    
-#     print(max(numbers))
-     
 
-# user_input = input("enter the numbers seperated by spaces")
-# numbers = [int(num) for num in user_input.split()]
-# greatest_number(numbers)
-
-
-
-# 
-
-# word_meanings = {
-#     "tables": "a piece of furnitures " "list of fact and figures",
-#     "cat": "a small animal"
-
-# }
-
-# print(word_meanings["tables"])
 
 
 
