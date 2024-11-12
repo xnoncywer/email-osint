@@ -1,7 +1,3 @@
-
-
-
-
 import whois
 import requests
 import re
